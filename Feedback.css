@@ -1,0 +1,62 @@
+form h3{
+    margin: 0%;
+    margin-top: 20px;
+    /* color: black; */
+}
+.errorclr{
+    color: red;
+    font-size: small;
+}
+.feedback-background{
+    background-image: url(/public/Static/Images/fdbk1.jpg);
+    /* opacity: 0.6; */
+    color: rgba(0, 0, 0);
+    /* background-repeat: no-repeat; */
+    background-size:contain;
+    height: 700px;
+}
+.background-opacity{
+    background-color: rgba(0, 0, 0,0.3);
+    height: 620px; 
+    padding: 5%;
+    padding-top: 1%;
+}
+.output-details{
+    border:2px solid black;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0,0.3);
+    color: white;
+    margin-left: 40%;
+    padding: 2%;
+    /* top: 0%; */
+    margin-top: -35%;
+}
+.background-opacity form input{
+    width: 295px;
+    height: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 4px;
+}
+.background-opacity form textarea{
+    width: 295px;
+    height: 30px;
+    border: 1px solid rgba(128, 128, 128, 0.404);
+    border-radius: 4px;
+}
+.background-opacity form button{
+    background-color: green;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 120px;
+}
+.background-opacity form button:hover{
+    background-color: yellowgreen;
+}
+.feedbackh1{
+    color: green;
+    font-size: 80px;
+    margin: 0%;
+    margin-top: 3%;
+
+}
